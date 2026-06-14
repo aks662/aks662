@@ -18,6 +18,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aks662&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ## 👨‍💻 About Me
 
 
@@ -36,6 +40,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
 </div>
+
 
 # 💻 Tech Stack:
 
@@ -85,11 +90,15 @@
 📈 Working toward becoming an AI Engineer
 
 <!-- Snake Game Repo View -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aks662/aks662/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aks662/aks662/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aks662/aks662/output/github-snake.svg">
+  </picture>
 </div>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshit-rana-068360261/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshitrana84630@gmail.com) 
@@ -126,4 +135,23 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aks662&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+## ⚡ Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220"/>
+</p>
+
+<p align="center">
+  <b>Consistency Beats Motivation.</b><br/>
+  <i>Build Daily. Improve Daily.</i>
+</p>
+
+---
+
+<!-- Auto Dark/Light Theme Compatibility -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
+</p>
 
